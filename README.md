@@ -1,4 +1,4 @@
-#  Early Cardiac Arrest Risk Prediction
+#  Early Prediction of Cardiac Arrest using Random Forest Classifier
 
 ##  Project Overview
 This project is a Machine Learning-based system that predicts the risk of cardiac arrest using patient health parameters. It uses a Random Forest Classifier and is deployed using a Gradio web interface.
